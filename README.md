@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Dhanush S 👋
+# Hey there, I'm Dhanush S 👋
 
 ### Aspiring AI Engineer | Machine Learning • Data Science • GenAI
 
@@ -165,8 +165,8 @@
 ## 🏆 Achievements
 
 - 🧠 Solved **200+ coding problems** across coding platforms
-- 🌐 Active **GitHub contributor** with multiple Python and AI-based projects
-- 🚀 Strong interest in **Software Engineering, Artificial Intelligence, and Machine Learning**
+- 🚀 Participated in **SIH(Smart India Hackathon)**.
+- 🌐 Won University Zonal in **Cricket(2025)**
 
 ---
 
