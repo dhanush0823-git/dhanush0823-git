@@ -42,100 +42,50 @@
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td valign="top" width="33%">
-
-### 🧮 Languages & Core CS
+**Languages**
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Data%20Structures-black?style=flat-square&logo=leetcode&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/OOP-black?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/DBMS-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-</td>
-<td valign="top" width="33%">
-
-### 🤖 Data Science & ML
+**Data Science & Machine Learning**
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Seaborn-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
 
-</td>
-<td valign="top" width="33%">
-
-### 🧠 AI & GenAI
+**Big Data & Databases**
 <p>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Sentence%20Transformers-4B8BBE?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/RAG-6A0DAD?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/NLP-2E8B57?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-### 🗄️ Big Data & Databases
+**AI & GenAI**
 <p>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-6A0DAD?style=flat-square"/>
 </p>
 
-</td>
-<td valign="top" width="33%">
-
-### 🧰 Frameworks & Tools
+**Tools & Platforms**
 <p>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
 </p>
-<p>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-### 📊 Visualization & APIs
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square"/>
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -198,6 +148,17 @@
 | Degree | Year | CGPA |
 |---|---|---|
 | B.E. Computer Science and Engineering | 2026 | 8.05 |
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issued By | Date |
+|---|---|---|
+| 🐍 **Data Science with Python** | Infosys Springboard | Jan 2026 |
+| 🧠 **Artificial Intelligence Fundamentals** | IBM | Oct 2025 |
+| 📊 **Power BI Workshop** | Office Master | 2025 |
+| 🤖 **AI Tools and ChatGPT Workshop** | Be10x | Feb 2025 |
 
 ---
 
