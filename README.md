@@ -11,7 +11,6 @@
 <p>
   <a href="https://linkedin.com/in/dhanush-s-784190358" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dhanushhemapriya0823@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/dhanush0823-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Vellore%2C%20Tamil%20Nadu-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
@@ -43,53 +42,94 @@
 
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-**Languages & Core CS**
+### 🧮 Languages & Core CS
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-000000?style=flat-square&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-3776AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
-**Data Science & ML**
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Structures-black?style=flat-square&logo=leetcode&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/OOP-black?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/DBMS-black?style=flat-square"/>
 </p>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-**AI & GenAI**
+### 🤖 Data Science & ML
 <p>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Sentence%20Transformers-4B8BBE?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-6A0DAD?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-black?style=flat-square"/>
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### 🧠 AI & GenAI
+<p>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-4B8BBE?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/RAG-6A0DAD?style=flat-square"/><br/>
 <img src="https://img.shields.io/badge/NLP-2E8B57?style=flat-square"/>
 </p>
 
-**Tools, Frameworks & Visualization**
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### 🗄️ Big Data & Databases
 <p>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### 🧰 Frameworks & Tools
+<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### 📊 Visualization & APIs
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+<p>
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square"/>
 </p>
 
@@ -169,23 +209,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanush0823-git&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush0823-git&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush0823-git&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush0823-git&theme=tokyo-night&hide_border=true" width="90%"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to collaborating on AI, Machine Learning, and Data Science projects, sharing knowledge, and exploring new opportunities.
@@ -193,11 +216,6 @@ I'm always open to collaborating on AI, Machine Learning, and Data Science proje
 <p align="center">
   <a href="https://linkedin.com/in/dhanush-s-784190358" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dhanushhemapriya0823@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/dhanush0823-git" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">⭐️ Thanks for visiting my profile — let's build something great together!</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanush0823-git&style=flat-square&color=blue" alt="Profile views"/>
-</p>
