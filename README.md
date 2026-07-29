@@ -157,7 +157,7 @@
 |---|---|---|
 | 🐍 **Data Science with Python** | Infosys Springboard | Jan 2026 |
 | 🧠 **Artificial Intelligence Fundamentals** | IBM | Oct 2025 |
-| 📊 **Power BI Workshop** | Office Master | Dec 2026 |
+| 📊 **Power BI Workshop** | Office Master | Dec 2025 |
 | 🤖 **AI Tools and ChatGPT Workshop** | Be10x | Feb 2025 |
 
 ---
