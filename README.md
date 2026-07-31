@@ -11,7 +11,7 @@
 <p>
   <a href="https://linkedin.com/in/dhanush-s-784190358" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dhanushhemapriya0823@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Vellore%2C%20Tamil%20Nadu-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bengaluru%2C%20BTM,%20Karnataka-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 </div>
