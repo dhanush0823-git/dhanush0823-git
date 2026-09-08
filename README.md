@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Dhanush%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20GenAI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Hi%20👋,%20I'm%20Dhanush%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20GenAI&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -31,22 +31,23 @@
 
 ### 🧑‍💻 About Me
 
-```yaml
-name: Dhanush S
-role: Aspiring AI Engineer / Data Scientist / Data Analyst
-education: "B.E. Computer Science Engineering, 2026 — CGPA 8.05"
-focus: ["Machine Learning", "Data Science", "GenAI & RAG", "Business Intelligence"]
-currently_building: "Intelligent systems that turn raw data into real-world decisions"
-fun_fact: "Solved 200+ coding problems & won University Zonal Cricket 2025 🏏"
-```
+> *Turning raw data into real-world decisions — one model, one dashboard, one clean line of code at a time.*
 
-- 🎓 **Computer Science Engineering graduate (2026)** with internship experience across software development, Python development, and data science / analytics
-- 🧠 Passionate about building **intelligent systems** that solve real-world problems using data and modern AI
-- 🐍 Proficient in **Python, SQL, OOP, Data Structures & Algorithms**, with hands-on experience building web apps, automation pipelines, BI dashboards, and AI-powered applications
-- 📊 Skilled in **EDA, data cleaning, feature engineering, and KPI dashboard design** — turning messy datasets into decision-ready insights
-- 🤖 Familiar with building **GenAI applications** using embeddings, RAG, FAISS, and vector search
-- 🧩 Solved **200+ coding problems** and love turning tricky logic into clean, working code
-- 🎯 Actively seeking roles as a **Data Scientist, Data Analyst, Machine Learning Engineer, or AI Engineer**
+<p>
+<img src="https://img.shields.io/badge/🎓_Graduating-2026-6C63FF?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/📍_Based_in-Bengaluru%2C_India-00C9FF?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/💼_Open_to-DS_%7C_ML_%7C_AI_Roles-2ED573?style=for-the-badge&labelColor=1a1a2e"/>
+</p>
+
+|  |  |
+|---|---|
+| 🎓 | **Computer Science Engineering graduate (2026)** with internship experience across software development, Python development, and data science / analytics |
+| 🧠 | Passionate about building **intelligent systems** that solve real-world problems using data and modern AI |
+| 🐍 | Proficient in **Python, SQL, OOP, Data Structures & Algorithms** — hands-on with web apps, automation pipelines, BI dashboards, and AI-powered applications |
+| 📊 | Skilled in **EDA, data cleaning, feature engineering & KPI dashboard design** — turning messy datasets into decision-ready insights |
+| 🤖 | Familiar with building **GenAI applications** using embeddings, RAG, FAISS, and vector search |
+| 🧩 | Solved **200+ coding problems** and love turning tricky logic into clean, working code |
+| 🎯 | Actively seeking roles as a **Data Scientist, Data Analyst, Machine Learning Engineer, or AI Engineer** |
 
 ---
 
@@ -169,76 +170,60 @@ fun_fact: "Solved 200+ coding problems & won University Zonal Cricket 2025 🏏"
 
 ### 🌟 Featured Projects
 
+#### 🤖 AI / ML Projects
+
 <table>
 <tr>
-<td width="50%">
+<td width="33.3%" valign="top">
 
-**🤖 [Healthcare Awareness Chatbot](https://github.com/dhanush0823-git)**
-`Python` `Streamlit` `RAG` `Hugging Face` `FAISS`
+**🩺 [Healthcare Awareness Chatbot](https://github.com/dhanush0823-git)**
 
-Built an AI-powered chatbot answering health-related queries via document chunking, embeddings, FAISS vector indexing, and similarity search for context-aware responses.
+`Python` `Streamlit` `RAG` `FAISS`
 
-</td>
-<td width="50%">
-
-**🧠 [Intelligent Resume–Job Matching System](https://github.com/dhanush0823-git)**
-`Python` `NLP` `Embeddings` `FAISS` `Scikit-learn`
-
-Compares resumes with job descriptions using text preprocessing, embeddings, and semantic similarity search to identify skill gaps and improve resume-to-job relevance.
+Built an AI-powered chatbot answering health queries via document chunking, embeddings, FAISS indexing, and similarity search for context-aware responses.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33.3%" valign="top">
 
-**🛒 [E-Commerce Sales Analytics Dashboard](https://github.com/dhanush0823-git)**
-`SQL` `Python` `Pandas` `Power BI` `Excel`
+**🧠 [Resume–Job Matching System](https://github.com/dhanush0823-git)**
 
-Processed and analyzed **50,000+ sales transactions** to identify purchasing behavior and revenue trends; built interactive Power BI dashboards with segmentation & forecasting — **cut reporting time by 30%**.
+`Python` `NLP` `Embeddings` `FAISS`
 
-</td>
-<td width="50%">
-
-**🎓 [Student Performance Analytics Dashboard](https://github.com/dhanush0823-git)**
-`Python` `SQL` `Power BI` `Pandas` `Scikit-learn`
-
-Performed data cleaning and EDA to identify academic performance trends; built Power BI dashboards visualizing attendance, marks, and pass percentage to flag at-risk students early.
+Compares resumes with job descriptions using embeddings and semantic similarity search to surface skill gaps and improve job-fit.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-**🏥 [Healthcare Analytics Dashboard](https://github.com/dhanush0823-git)**
-`SQL` `Power BI` `Python` `Pandas` `Excel`
-
-Processed and transformed healthcare datasets to analyze patient records and operational metrics, with dashboards monitoring hospital KPIs and patient trends.
-
-</td>
-<td width="50%">
-
-**🛍️ [E-Commerce Web Application](https://github.com/dhanush0823-git)**
-`Python` `SQL` `Streamlit`
-
-A database-driven e-commerce app with authentication, product management, shopping cart, and order management backed by SQL storage and retrieval.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🏦 [Banking Management System](https://github.com/dhanush0823-git)**
-`Python` `Streamlit` `SQL`
-
-Supports account creation, deposits, withdrawals, balance enquiry, and transaction history with secure SQL database integration.
-
-</td>
-<td width="50%">
+<td width="33.3%" valign="top">
 
 **🌾 [Crop Price Prediction](https://github.com/dhanush0823-git)**
+
 `Python` `Random Forest` `Scikit-learn`
 
-A machine learning application predicting crop prices using weather and market data.
+Predicts crop prices using weather and market data through a trained regression pipeline.
+
+</td>
+</tr>
+</table>
+
+#### 📊 Data Analytics Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛒 [E-Commerce Sales Analytics Dashboard](https://github.com/dhanush0823-git)**
+
+`SQL` `Python` `Power BI` `Pandas`
+
+Processed and analyzed **50,000+ sales transactions** to uncover purchasing behavior and revenue trends; built interactive Power BI dashboards with segmentation & forecasting — **cut reporting time by 30%**.
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 [Student Performance Analytics Dashboard](https://github.com/dhanush0823-git)**
+
+`Python` `SQL` `Power BI` `Scikit-learn`
+
+Performed data cleaning and EDA to identify academic performance trends; built Power BI dashboards tracking attendance, marks, and pass percentage to flag at-risk students early.
 
 </td>
 </tr>
@@ -309,6 +294,6 @@ I'm always open to collaborating on **AI, Machine Learning, and Data Science** p
 
 ⭐️ *Thanks for visiting my profile — let's build something great together!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
