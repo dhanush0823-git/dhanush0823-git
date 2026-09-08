@@ -228,8 +228,6 @@ Performed data cleaning and EDA to identify academic performance trends; built P
 </tr>
 </table>
 
-> 💡 *Replace project links above with your actual repository URLs.*
-
 ---
 
 ### 🎓 Education
