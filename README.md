@@ -167,6 +167,32 @@
 
 ---
 
+### 📌 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/dhanush0823-git/healthcare-awareness-chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush0823-git&repo=healthcare-awareness-chatbot&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/dhanush0823-git/resume-job-matching-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush0823-git&repo=resume-job-matching-system&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/dhanush0823-git/ecommerce-sales-analytics-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush0823-git&repo=ecommerce-sales-analytics-dashboard&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/dhanush0823-git/crop-price-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush0823-git&repo=crop-price-prediction&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> 💡 *Replace the `repo=` values above with your actual GitHub repository names (case-sensitive) so the cards render correctly.*
+
+---
+
 ### 🌟 Featured Projects
 
 #### 🤖 AI / ML Projects
