@@ -34,7 +34,7 @@
 > *Turning raw data into real-world decisions — one model, one dashboard, one clean line of code at a time.*
 
 <p>
-<img src="https://img.shields.io/badge/🎓_Graduating-2026-6C63FF?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/🎓_Graduated-2026-6C63FF?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/📍_Based_in-Bengaluru%2C_India-00C9FF?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/💼_Open_to-DS_%7C_ML_%7C_AI_Roles-2ED573?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
@@ -75,7 +75,6 @@
 <summary><b>Languages & Core</b></summary>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </details>
 
@@ -237,7 +236,7 @@ Performed data cleaning and EDA to identify academic performance trends; built P
 
 | Degree | Institution | Year | CGPA |
 |---|---|---|---|
-| B.E. Computer Science and Engineering | Hindusthan College of Engineering and Technology, Coimbatore | 2026 | **8.05** |
+| B.E. Computer Science and Engineering | Hindusthan College of Engineering and Technology, Coimbatore | 2026 | **8.50** |
 
 ---
 
@@ -249,7 +248,7 @@ Performed data cleaning and EDA to identify academic performance trends; built P
 | 🧠 Artificial Intelligence Fundamentals | IBM SkillBuild | Oct 2025 |
 | 📊 Power BI Real-Time Dashboard Workshop | Office Master | Dec 2025 |
 | 🤖 AI Tools and ChatGPT Workshop | Be10x | Feb 2025 |
-| 🐍 Python for Data Science | GUVI | — |
+| 🐍 Python for Data Science | GUVI | Mar 2025 |
 
 ---
 
