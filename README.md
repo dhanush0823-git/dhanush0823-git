@@ -167,31 +167,6 @@
 
 ---
 
-### 📌 Pinned Repositories
-
-<div align="center">
-<a href="https://github.com/dhanush0823-git/ai-public-health-chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush0823-git&repo=ai-public-health-chatbot&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/dhanush0823-git/Weather-Aware-Market-Trend-Analysis-for-Crops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush0823-git&repo=Weather-Aware-Market-Trend-Analysis-for-Crops&theme=tokyonight&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/dhanush0823-git/Machine_Learning01">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush0823-git&repo=Machine_Learning01&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/dhanush0823-git/rbi-llm-rag-gatekeeper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush0823-git&repo=rbi-llm-rag-gatekeeper&theme=tokyonight&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/dhanush0823-git/Web-Scraping-Python-Selenium">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush0823-git&repo=Web-Scraping-Python-Selenium&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/dhanush0823-git/ML_Algorithms">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush0823-git&repo=ML_Algorithms&theme=tokyonight&hide_border=true" />
-</a>
-</div>
-
 ### 🌟 Featured Projects
 
 #### 🤖 AI / ML Projects
