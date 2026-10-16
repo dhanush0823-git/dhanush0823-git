@@ -1,441 +1,421 @@
 <div align="center">
 
-<!-- ═══════════════════════ HERO SECTION ═══════════════════════ -->
+<!-- ═══════════════════════ PREMIUM HERO ═══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,35:172554,70:164E63,100:06B6D4&text=DHANUSH%20S&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20GENERATIVE%20AI&descSize=17&descAlignY=59&animation=fadeIn" alt="Dhanush S — AI and Data Science Portfolio"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:09090B,35:172554,70:164E63,100:06B6D4&height=270&section=header&text=Dhanush%20S&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20GENERATIVE%20AI%20%7C%20NLP&descAlignY=60&descSize=18&descColor=BAE6FD" alt="Dhanush S — AI, Machine Learning, GenAI and NLP"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=50&lines=Building+Intelligent+Systems+with+Data+%26+AI;Exploring+LLMs%2C+RAG%2C+NLP+%26+Semantic+Search;Transforming+Raw+Data+into+Actionable+Insights;From+Machine+Learning+Models+to+GenAI+Applications" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=850&color=22D3EE&center=true&vCenter=true&width=900&height=55&lines=Turning+raw+data+into+decision-ready+insights;Building+practical+AI+and+GenAI+applications;Exploring+NLP%2C+RAG%2C+embeddings+%26+semantic+search;From+data+preparation+to+models%2C+apps+%26+dashboards" alt="Animated professional introduction"/>
 
 <br/>
 
-<a href="https://github.com/dhanush0823-git">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/dhanush-s-784190358">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:dhanushhemapriya0823@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://linkedin.com/in/dhanush-s-784190358"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dhanushhemapriya0823@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/dhanush0823-git?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/></a>
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-AI%20%7C%20ML%20%7C%20NLP%20%7C%20DATA-16A34A?style=for-the-badge&labelColor=0D1117" alt="Open to opportunities"/>
+<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=dhanush0823-git&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/dhanush0823-git?style=for-the-badge&color=334155&label=FOLLOWERS" alt="GitHub followers"/>
 
-<br/><br/>
+<br/>
 
-**AI/ML Engineer in Progress · Data Science Graduate · Problem Solver**
+AI & Data Science | Computer Science Engineering Graduate, 2026
 
-*Turning data into intelligence and ideas into working applications.*
+I build with data, experiment with AI, and focus on solutions people can use.
 
 </div>
 
----
+01 / Recruiter Snapshot
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+Computer Science graduate with experience across data science, analytics, and software development. Interested in building end-to-end solutions—from data preparation and model evaluation to AI-powered applications and business dashboards.
 
-## `01` — About Me
+30,000+
 
-<img align="right" width="290" src="https://github-readme-stats.vercel.app/api?username=dhanush0823-git&show_icons=true&hide_border=true&bg_color=09090B&title_color=22D3EE&icon_color=22D3EE&text_color=E5E7EB&rank_icon=github" alt="GitHub overview"/>
+40%
 
-I'm **Dhanush S**, a Computer Science and Engineering graduate from **Hindusthan College of Engineering and Technology, Coimbatore**.
+3
 
-My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Natural Language Processing, Generative AI, and Data Science**.
+200+
 
-I enjoy understanding data, developing predictive models, exploring language-based AI systems, and building applications that solve practical problems.
+Business records analyzed*
 
-### What I bring to the table
+Reported reduction in manual reporting effort*
 
-* **Data Science:** Data cleaning, EDA, feature engineering, statistical analysis, and visualization.
-* **Machine Learning:** Supervised learning, model evaluation, classification, and regression.
-* **NLP & Generative AI:** Text preprocessing, embeddings, semantic search, LLM applications, and RAG fundamentals.
-* **Data Analytics:** SQL, Power BI, DAX, ETL, KPI reporting, and business insights.
-* **Development:** Python programming, modular code, Git, and application development.
+Internship experiences
 
-<br clear="right"/>
+Coding problems solved*
 
-> **My approach:** Understand the problem. Explore the data. Build the solution. Evaluate the results. Make it useful.
+<sub>*Figures are based on the experience and achievement details in my profile. Please verify against supporting records before relying on them.</sub>
 
----
+02 / About Me
 
-<!-- ═══════════════════════ CAREER FOCUS ═══════════════════════ -->
+class DhanushS:
+    role = "AI / Data Science Professional"
+    education = "B.E. Computer Science and Engineering (2026)"
+    location = "Bengaluru, India"
 
-## `02` — Career Focus
+    interests = [
+        "Data Science & Machine Learning",
+        "Natural Language Processing",
+        "Generative AI & Large Language Models",
+        "Retrieval-Augmented Generation",
+        "Data Analytics & Business Intelligence",
+    ]
 
-<table>
-<tr>
-<td width="50%" valign="top">
+    working_with = [
+        "Python", "SQL", "Pandas", "NumPy",
+        "Scikit-learn", "Power BI",
+        "Embeddings", "FAISS", "RAG",
+    ]
 
-### 🤖 Artificial Intelligence
+    principle = "Understand the problem. Validate the data. Evaluate the solution."
 
-* Generative AI applications
-* Large Language Models
-* Retrieval-Augmented Generation
-* Embeddings and vector search
-* AI application development
+    def collaboration(self):
+        return "Let's build something useful with data and AI. 🚀"
 
-</td>
-<td width="50%" valign="top">
+I’m Dhanush S, a Computer Science and Engineering graduate from Hindusthan College of Engineering and Technology, Coimbatore. My interests span Data Science, Machine Learning, NLP, Generative AI, and analytics.
 
-### 🧠 Machine Learning & NLP
+I enjoy exploring datasets, developing machine-learning workflows, working with language-based AI systems, and presenting findings through useful applications and dashboards.
 
-* Supervised learning
-* Classification and regression
-* Natural Language Processing
-* Text classification and sentiment analysis
-* Feature engineering and evaluation
+Data Science: data cleaning, exploratory data analysis, feature engineering, and visualization.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Machine Learning: classification, regression, model validation, and performance evaluation.
 
-### 📊 Data Science & Analytics
+NLP & GenAI: text processing, embeddings, semantic search, LLM applications, and RAG fundamentals.
 
-* Exploratory data analysis
-* Statistical insights
-* Data visualization
-* SQL-based analysis
-* Power BI dashboards
+Analytics: SQL, Power BI, DAX, ETL, and KPI reporting.
 
-</td>
-<td width="50%" valign="top">
+Development: Python, Git, Streamlit, and application integration.
 
-### ⚙️ Engineering & Deployment
+03 / Technical Arsenal
 
-* Python application development
-* Streamlit applications
-* Data preprocessing pipelines
-* Git and GitHub
-* API-based application integration
-
-</td>
-</tr>
-</table>
-
-**Target opportunities:** AI/ML Engineer · Generative AI Engineer · NLP Engineer · Data Scientist · Data Analyst
-
----
-
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-
-## `03` — Technical Arsenal
-
-### 🐍 Programming & Query Languages
+Programming & Data
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-### 📊 Data Science & Visualization
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-### 🧠 Machine Learning & Deep Learning
+Machine Learning & Deep Learning
 
 <p>
-<img src="https://img.shields.io/badge/Supervised%20Learning-2563EB?style=flat-square" alt="Supervised Learning"/>
-<img src="https://img.shields.io/badge/Classification-0F766E?style=flat-square" alt="Classification"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Classification-2563EB?style=flat-square" alt="Classification"/>
 <img src="https://img.shields.io/badge/Regression-7C3AED?style=flat-square" alt="Regression"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-475569?style=flat-square" alt="Feature Engineering"/>
-<img src="https://img.shields.io/badge/Model%20Evaluation-B45309?style=flat-square" alt="Model Evaluation"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-475569?style=flat-square" alt="Feature engineering"/>
 </p>
 
-### 💬 NLP & Text Intelligence
+NLP & Generative AI
 
 <p>
 <img src="https://img.shields.io/badge/NLTK-166534?style=flat-square" alt="NLTK"/>
-<img src="https://img.shields.io/badge/Regex-475569?style=flat-square" alt="Regular Expressions"/>
-<img src="https://img.shields.io/badge/Text%20Preprocessing-0F766E?style=flat-square" alt="Text Preprocessing"/>
-<img src="https://img.shields.io/badge/Tokenization-7C3AED?style=flat-square" alt="Tokenization"/>
-<img src="https://img.shields.io/badge/Sentence%20Transformers-2563EB?style=flat-square" alt="Sentence Transformers"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</p>
-
-### ✨ Generative AI & Retrieval
-
-<p>
-<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" alt="Large Language Models"/>
-<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square" alt="Retrieval-Augmented Generation"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-4B8BBE?style=flat-square" alt="Sentence Transformers"/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square" alt="RAG"/>
 <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square" alt="FAISS"/>
 <img src="https://img.shields.io/badge/Embeddings-7C3AED?style=flat-square" alt="Embeddings"/>
-<img src="https://img.shields.io/badge/Vector%20Search-0F766E?style=flat-square" alt="Vector Search"/>
 <img src="https://img.shields.io/badge/Ollama-171717?style=flat-square" alt="Ollama"/>
 </p>
 
-### 📈 Business Intelligence & Data Management
+Analytics, Databases & Tools
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/DAX-217346?style=flat-square" alt="DAX"/>
 <img src="https://img.shields.io/badge/Power%20Query-6B2D91?style=flat-square" alt="Power Query"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### 🛠️ Development & Deployment
-
-<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
 </p>
 
----
+04 / Featured Projects
 
-<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
+🌾 AgriPredict — Weather-Aware Crop Market Insights
 
-## `04` — Featured Projects
+<a href="https://weatheragripredict.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open%20AgriPredict-16A34A?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open AgriPredict"/></a>
 
-*Applications and projects across AI, Generative AI, NLP, Machine Learning, and Data Science.*
+An agriculture-focused application exploring weather-aware crop and market trends.
+
+Areas: agricultural data · weather-aware insights · crop-market trends · data-driven decision support
+
+Python Data Science Machine Learning Streamlit
+
+🩺 AI Health Chatbot
+
+<a href="https://disawachatbot.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open%20AI%20Health%20Chatbot-16A34A?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open AI Health Chatbot"/></a>
+
+A conversational AI application focused on making health-related information accessible through a chat interface.
+
+Areas: conversational interaction · language-based interfaces · AI application development
+
+Python AI NLP Streamlit
+
+For a health-related AI project, document the system's sources, limitations, and safety boundaries clearly. It should not present itself as a substitute for a qualified medical professional.
+
+🧠 NLP Project Track
+
+The following are portfolio projects to build or link to once implemented. Keep the status accurate and replace each placeholder with its real repository.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 AgriPredict
+💬 Sentiment Analysis & Text Classification
 
-**Weather-Aware Market Trend Analysis for Crops**
+Analyze text such as product reviews or customer feedback.
 
-<a href="https://weatheragripredict.streamlit.app/">
-<img src="https://img.shields.io/badge/Live%20Application-Visit%20Project-16A34A?style=for-the-badge&logo=streamlit&logoColor=white" alt="AgriPredict live application"/>
-</a>
+Text normalization and tokenization
 
-An agriculture-focused application exploring the relationship between weather conditions and crop market trends.
+TF-IDF and baseline classifiers
 
-**Focus areas**
+Precision, recall, F1-score, and confusion matrix
 
-* Agricultural data analysis
-* Weather-aware insights
-* Crop market trends
-* Data-driven decision support
+Error analysis and class imbalance
 
-`Python` `Data Science` `Machine Learning` `Streamlit`
+Python NLTK Scikit-learn NLP
+
+Status: Planned / in progress
 
 </td>
 <td width="50%" valign="top">
 
-### 🩺 AI Health Chatbot
+🔎 Semantic Resume–Job Matching
 
-**Conversational AI for Health Information**
+Compare resumes with job descriptions using semantic representations rather than relying only on exact keyword overlap.
 
-<a href="https://disawachatbot.streamlit.app/">
-<img src="https://img.shields.io/badge/Live%20Application-Visit%20Project-16A34A?style=for-the-badge&logo=streamlit&logoColor=white" alt="AI Health Chatbot live application"/>
-</a>
+Resume text extraction
 
-An AI chatbot application designed to provide a conversational interface for health-related information.
+Skill and keyword normalization
 
-**Focus areas**
+Sentence embeddings and similarity ranking
 
-* Natural-language interaction
-* AI-powered question answering
-* Conversational application design
-* User-friendly AI interfaces
+Explainable skill-gap summaries
 
-`Python` `AI` `NLP` `Streamlit`
+Python Sentence-Transformers FAISS
+
+Status: Planned / in progress
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 Resume–Job Matching System
+📑 Document Q&A with RAG
 
-**Semantic Matching & Skill Gap Analysis**
+Build a document question-answering workflow that retrieves relevant source passages before generating an answer.
 
-A project concept for comparing candidate resumes against job descriptions using natural-language processing and semantic similarity.
+PDF ingestion and chunking
 
-**Planned capabilities**
+Embedding generation and FAISS retrieval
 
-* Extract and normalize text
-* Identify relevant skills and keywords
-* Compare semantic representations
-* Rank job descriptions by relevance
+Context-grounded LLM responses
 
-`Python` `NLP` `Embeddings` `FAISS`
+Source citations and retrieval evaluation
 
-**Status:** Project idea unless linked to a completed implementation.
+Python LLMs RAG FAISS
 
-</td>
-<td width="50%" valign="top">
-
-### 💬 NLP Sentiment Analysis
-
-**Understanding Opinions Through Text**
-
-A project concept for classifying text into sentiment categories and examining patterns in user feedback.
-
-**Planned capabilities**
-
-* Text cleaning and normalization
-* Tokenization and feature extraction
-* Sentiment classification
-* Evaluation using precision, recall, and F1-score
-
-`Python` `NLTK` `Scikit-learn` `NLP`
-
-**Status:** Project idea unless linked to a completed implementation.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Document Q&A with RAG
-
-**Context-Aware Retrieval-Augmented Generation**
-
-A project concept for answering questions about documents by retrieving relevant passages before generating a response.
-
-**Planned capabilities**
-
-* Document ingestion and chunking
-* Embedding generation
-* FAISS similarity search
-* Context-grounded answer generation
-
-`Python` `LLMs` `RAG` `FAISS`
-
-**Status:** Project idea unless linked to a completed implementation.
+Status: Planned / in progress
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Sales Analytics Dashboard
+📝 Text Summarization & Keyword Extraction
 
-**Business Intelligence & Performance Tracking**
+Turn long documents into concise summaries and identify key terms or entities.
 
-A project concept for analyzing transactional data and communicating business performance through interactive dashboards.
+Text preprocessing
 
-**Planned capabilities**
+Extractive or abstractive summarization
 
-* Data cleaning and transformation
-* SQL-based analysis
-* Revenue and customer KPIs
-* Interactive dashboard reporting
+Keyword extraction
 
-`SQL` `Python` `Power BI` `DAX`
+Output quality review
 
-**Status:** Project idea unless linked to a completed implementation.
+Python NLP Hugging Face
+
+Status: Planned
 
 </td>
 </tr>
 </table>
 
-### 🔗 Explore My Repositories
-
-<a href="https://github.com/dhanush0823-git?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-</a>
-
-> **Portfolio principle:** Every featured project should have a working repository, a clear README, installation instructions, example inputs, evaluation results where applicable, and a live demo when practical.
-
----
-
-<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
-
-## `05` — Professional Experience
-
-<details>
-<summary><strong>📊 Data Science Intern — PySpiders, Bengaluru</strong> · March 2026 – July 2026</summary>
-
-**Technologies:** Python · SQL · Pandas · NumPy
-
-* Worked with Python-based data handling, SQL integration, and structured datasets.
-* Performed exploratory data analysis to investigate patterns and support data-driven insights.
-* Developed reusable scripts for data preparation and recurring analytical tasks.
-
-</details>
-
-<details>
-<summary><strong>📈 Data Scientist Intern (Data Analytics) — VCodez, Chennai</strong> · July 2025 – November 2025</summary>
-
-**Technologies:** SQL · Power BI · Python · Pandas · NumPy · Excel · MySQL
-
-* Analyzed 30,000+ business records to examine customer behavior, revenue trends, and operational performance.
-* Performed data cleaning, validation, and reconciliation to improve reporting consistency.
-* Developed interactive Power BI dashboards; the original experience notes report a 40% reduction in manual reporting effort.
-
-</details>
-
-<details>
-<summary><strong>💻 Software Developer Intern — Gateway Software Solutions, Coimbatore</strong> · March 2025 – June 2025</summary>
-
-**Technologies:** Python · Git · GitHub
-
-* Developed and maintained Python modules and helped resolve application bugs.
-* Participated in code reviews and testing activities.
-* Collaborated on maintaining readable and reusable application code.
-
-</details>
-
----
-
-<!-- ═══════════════════════ EDUCATION ═══════════════════════ -->
-
-## `06` — Education
+📊 Data Science & Analytics Project Track
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-🎓 **Bachelor of Engineering — Computer Science and Engineering**
+🛒 E-Commerce Sales Analytics
 
-**Hindusthan College of Engineering and Technology**
-Coimbatore, Tamil Nadu, India
+Analyze sales and customer trends and present business KPIs in an interactive dashboard.
 
-**Graduation:** 2026
-**CGPA:** 8.53/10 — confirm against your official academic records before publishing.
+Data cleaning and validation
+
+SQL analysis and KPI design
+
+Customer and product segmentation
+
+Interactive Power BI reporting
+
+SQL Python Pandas Power BI
+
+Status: Link the actual repository and dashboard when available.
+
+</td>
+<td width="50%" valign="top">
+
+🌱 Crop Price Prediction
+
+Explore regression approaches for estimating crop prices using suitable weather and market features.
+
+EDA and feature engineering
+
+Train/validation/test split
+
+Baseline versus tuned models
+
+MAE, RMSE, and error analysis
+
+Python Scikit-learn Regression
+
+Status: Link the actual repository and results when available.
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
 
-<!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
+<a href="https://github.com/dhanush0823-git?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
 
-## `07` — Certifications & Learning
+</div>
 
-| Certification                         | Provider                                                      |
-| ------------------------------------- | ------------------------------------------------------------- |
-| Data Science with Python              | PySpiders / Infosys Springboard — verify issuing organization |
-| Artificial Intelligence Fundamentals  | IBM SkillsBuild                                               |
-| Power BI Real-Time Dashboard Workshop | Office Master                                                 |
-| AI Tools and ChatGPT Workshop         | Be10x                                                         |
-| Python for Data Science               | GUVI                                                          |
+05 / How I Think About a RAG Pipeline
 
-*Verify certificate names and issuing organizations against the certificates before publishing.*
+A reliable retrieval-augmented generation workflow needs more than an LLM call. The retrieval stage should supply relevant context, and the generated answer should be checked against the evidence.
 
----
+flowchart LR
+    A[Documents] --> B[Extract and clean text]
+    B --> C[Chunk documents]
+    C --> D[Generate embeddings]
+    D --> E[(FAISS index)]
 
-<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
+    Q[User question] --> QE[Embed query]
+    QE --> E
+    E --> R[Retrieve top-k passages]
+    R --> CTX[Build grounded context]
+    CTX --> LLM[LLM generation]
+    LLM --> ANS[Answer with sources]
 
-## `08` — Achievements
+    classDef source fill:#172554,stroke:#38BDF8,color:#FFFFFF
+    classDef process fill:#0F766E,stroke:#5EEAD4,color:#FFFFFF
+    classDef output fill:#4C1D95,stroke:#C4B5FD,color:#FFFFFF
+    class A,Q source
+    class B,C,D,E,QE,R,CTX process
+    class LLM,ANS output
 
-* 🧩 Solved **200+ coding problems**, as reported in my existing profile.
-* 🚀 Participated in **Smart India Hackathon (SIH)**.
-* 🏏 Won the **University Zonal Cricket Championship (2025)**.
+What I would evaluate: retrieval relevance, Recall@K where ground-truth passages exist, answer faithfulness, latency, and failure cases. The exact metrics depend on the dataset and use case.
 
----
+06 / Professional Experience
 
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
+<details>
+<summary><strong>📊 Data Science Intern — PySpiders, Bengaluru</strong> · Mar 2026 – Jul 2026</summary>
 
-## `09` — GitHub Analytics
+Stack: Python · SQL · Pandas · NumPy
+
+Worked with Python data-handling workflows and SQL-integrated datasets.
+
+Performed exploratory data analysis to identify patterns and support data-driven insights.
+
+Developed reusable scripts for recurring data preparation and preprocessing tasks.
+
+</details>
+
+<details>
+<summary><strong>📈 Data Scientist Intern (Data Analytics) — VCodez, Chennai</strong> · Jul 2025 – Nov 2025</summary>
+
+Stack: SQL · Power BI · Python · Pandas · NumPy · Excel · MySQL
+
+Analyzed 30,000+ business records to examine customer behavior, revenue trends, and operational performance.
+
+Performed data-quality checks, cleaning, validation, and reconciliation.
+
+Built interactive Power BI dashboards with KPIs, slicers, and drill-through reporting; the original profile reports a 40% reduction in manual reporting effort.
+
+</details>
+
+<details>
+<summary><strong>💻 Software Developer Intern — Gateway Software Solutions, Coimbatore</strong> · Mar 2025 – Jun 2025</summary>
+
+Stack: Python · Git · GitHub
+
+Developed and maintained Python modules and helped resolve application bugs.
+
+Participated in code reviews and testing cycles.
+
+Collaborated on improving code readability and maintainability.
+
+</details>
+
+07 / Education & Certifications
+
+Education
+
+B.E. — Computer Science and Engineering
+Hindusthan College of Engineering and Technology, Coimbatore
+Graduation: 2026 · CGPA: Confirm the final value against your official records before publishing.
+
+Certifications
+
+Certification
+
+Provider
+
+Data Science with Python
+
+PySpiders / Infosys Springboard — verify the issuing organization
+
+Artificial Intelligence Fundamentals
+
+IBM SkillsBuild
+
+Power BI Real-Time Dashboard Workshop
+
+Office Master
+
+Python for Data Science
+
+GUVI
+
+AI Tools and ChatGPT Workshop
+
+Be10x
+
+Please verify each certificate title, issuer, and date against the original certificate.
+
+08 / Achievements
+
+🧩 200+ coding problems solved — as reported in my existing profile.
+
+🚀 Participated in Smart India Hackathon (SIH).
+
+🏏 University Zonal Cricket Championship (2025) — winner, as reported in my existing profile.
+
+09 / GitHub Activity
 
 <div align="center">
 
@@ -448,90 +428,48 @@ Coimbatore, Tamil Nadu, India
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhanush0823-git&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush0823-git&bg_color=09090B&color=BAE6FD&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%" alt="GitHub contribution activity"/>
 
 </div>
 
----
+10 / Current Learning Focus
 
-<!-- ═══════════════════════ LEARNING ═══════════════════════ -->
+Focus
 
-## `10` — Currently Exploring
+Topics
 
-<table>
-<tr>
-<td width="50%" valign="top">
+NLP
 
-**🧠 Advanced NLP**
+Text representation, embeddings, semantic similarity, classification, transformer-based NLP
 
-* Text representation and embeddings
-* Semantic similarity
-* Text classification
-* Transformer-based NLP
+Generative AI
 
-</td>
-<td width="50%" valign="top">
+RAG design, retrieval strategies, grounded answers, evaluation
 
-**✨ Generative AI**
+Machine Learning
 
-* RAG pipeline design
-* Vector databases and retrieval
-* LLM evaluation
-* Grounded question answering
+Model validation, feature engineering, tuning, error analysis
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+AI Engineering
 
-**📈 Applied Machine Learning**
-
-* Model selection and validation
-* Feature engineering
-* Hyperparameter tuning
-* Reliable evaluation pipelines
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ AI Engineering**
-
-* FastAPI
-* Model and application deployment
-* Reproducible experiments
-* End-to-end AI workflows
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
+API development, reproducible workflows, deployment, monitoring fundamentals
 
 <div align="center">
 
-## Let's Build Something Intelligent.
+Let's Connect
 
-I'm interested in opportunities and collaborations involving **Artificial Intelligence, Generative AI, NLP, Machine Learning, and Data Science**.
+Interested in AI, Machine Learning, NLP, Generative AI, or Data Science opportunities?
 
-If you're building practical AI applications or working on data-driven products, let's connect.
+I'm open to connecting with recruiters, engineers, and teams building practical data-driven products.
 
-<br/>
-
-<a href="https://linkedin.com/in/dhanush-s-784190358">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-<a href="mailto:dhanushhemapriya0823@gmail.com">
-<img src="https://img.shields.io/badge/Send%20an%20Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
-</a>
+<a href="https://linkedin.com/in/dhanush-s-784190358"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dhanushhemapriya0823@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/dhanush0823-git?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 <br/><br/>
 
-**Thanks for visiting my profile.**
+Build thoughtfully. Measure honestly. Keep learning. ✨
 
-*Building skills. Shipping projects. Learning continuously.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:164E63,100:09090B"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:09090B&height=120&section=footer" alt="Footer"/>
 
 </div>
