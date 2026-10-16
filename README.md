@@ -1,405 +1,200 @@
 <div align="center">
 
-<!-- ═══════════════════════ HERO SECTION ═══════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,35:172554,70:164E63,100:06B6D4&text=DHANUSH%20S&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20GENERATIVE%20AI&descSize=17&descAlignY=59&animation=fadeIn" alt="Dhanush S — AI and Data Science Portfolio"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=50&lines=Building+Intelligent+Systems+with+Data+%26+AI;Exploring+LLMs%2C+RAG%2C+NLP+%26+Semantic+Search;Transforming+Raw+Data+into+Actionable+Insights;From+Machine+Learning+Models+to+GenAI+Applications" alt="Animated introduction"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:203A43,100:0E7C8F&height=260&section=header&text=DHANUSH%20S&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20GENERATIVE%20AI&descAlignY=58&descSize=22&descColor=ffffff" width="100%"/>
 
 <a href="https://github.com/dhanush0823-git">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/dhanush-s-784190358">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:dhanushhemapriya0823@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=950&height=45&lines=Transforming+Raw+Data+into+Actionable+Insights;Building+RAG+%26+GenAI+apps+that+answer+with+context;NLP+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Analytics;B.E.+CSE+%2726+%C2%B7+3+Internships+%C2%B7+Open+to+Work" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=dhanush0823-git&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/dhanush0823-git?style=for-the-badge&color=334155&label=FOLLOWERS" alt="GitHub followers"/>
+<a href="https://github.com/dhanush0823-git"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555"/></a>
+<a href="https://linkedin.com/in/dhanush-s-784190358"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555"/></a>
+<a href="mailto:dhanushhemapriya0823@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555"/></a>
 
-<br/><br/>
+<br/>
 
-**AI/ML Engineer in Progress · Data Science Graduate · Problem Solver**
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Engineer%20%7C%20Data%20Analyst-2ED573?style=for-the-badge&labelColor=0d1117"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhanush0823-git&color=0891B2&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/dhanush0823-git?style=for-the-badge&color=334155&label=FOLLOWERS&labelColor=555555)
+
+<br/>
+
+**AI/ML Engineer · Data Science Graduate · Problem Solver**
 
 *Turning data into intelligence and ideas into working applications.*
 
+<br/>
+
+[**⚡ Highlights**](#-highlights) &nbsp;•&nbsp; [**🚀 Projects**](#-featured-projects) &nbsp;•&nbsp; [**💼 Experience**](#-experience) &nbsp;•&nbsp; [**🛠️ Tech Stack**](#️-tech-arsenal) &nbsp;•&nbsp; [**📫 Contact**](#-lets-connect)
+
 </div>
 
 ---
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+## ⚡ Highlights
 
-## `01` — About Me
+> **CS Engineering graduate (2026) with 3 internships who ships end-to-end: raw data → model/pipeline → dashboard/app.**
 
-<img align="right" width="290" src="https://github-readme-stats.vercel.app/api?username=dhanush0823-git&show_icons=true&hide_border=true&bg_color=09090B&title_color=22D3EE&icon_color=22D3EE&text_color=E5E7EB&rank_icon=github" alt="GitHub overview"/>
+<div align="center">
 
-I'm **Dhanush S**, a Computer Science and Engineering graduate from **Hindusthan College of Engineering and Technology, Coimbatore**.
+| 🧾 **30,000+** | 📉 **40%** | 🛒 **50,000+** | 💼 **3** | 🧩 **200+** | 🎓 **8.50** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| business records analyzed | less manual reporting effort | sales transactions processed | industry internships | coding problems solved | CGPA |
 
-My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Natural Language Processing, Generative AI, and Data Science**.
-
-I enjoy understanding data, developing predictive models, exploring language-based AI systems, and building applications that solve practical problems.
-
-### What I bring to the table
-
-* **Data Science:** Data cleaning, EDA, feature engineering, statistical analysis, and visualization.
-* **Machine Learning:** Supervised learning, model evaluation, classification, and regression.
-* **NLP & Generative AI:** Text preprocessing, embeddings, semantic search, LLM applications, and RAG fundamentals.
-* **Data Analytics:** SQL, Power BI, DAX, ETL, KPI reporting, and business insights.
-* **Development:** Python programming, modular code, Git, and application development.
-
-<br clear="right"/>
-
-> **My approach:** Understand the problem. Explore the data. Build the solution. Evaluate the results. Make it useful.
+</div>
 
 ---
 
-<!-- ═══════════════════════ CAREER FOCUS ═══════════════════════ -->
+## 🧑‍💻 About Me
 
-## `02` — Career Focus
+```python
+class Dhanush:
+    role        = "AI / ML / Data Science Engineer"
+    education   = "B.E. Computer Science & Engineering (2026)"
+    base        = "Bengaluru, India"
+    core_stack  = ["Python", "SQL", "Pandas", "Scikit-learn", "PyTorch", "TensorFlow"]
+    genai_stack = ["Embeddings", "FAISS", "RAG", "Sentence-Transformers", "Hugging Face"]
+    analytics   = ["Power BI", "DAX", "Power Query", "Excel", "KPI Dashboards"]
+    exploring   = ["LLM Agents", "Fine-tuning", "FastAPI Deployment", "MLOps", "Cloud"]
+    philosophy  = "Turn raw data into real-world decisions."
+
+    def hire_me(self):
+        return "Let's build something intelligent together. 🚀"
+```
+
+---
+
+## 🌟 Featured Projects
+
+*Applications and projects across Generative AI, NLP, Machine Learning, and Data Analytics.*
+
+---
+
+### 🤖 Generative AI
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🤖 Artificial Intelligence
+#### 🩺 AI Health Chatbot
+**Conversational AI for Public Health Awareness**
 
-* Generative AI applications
-* Large Language Models
-* Retrieval-Augmented Generation
-* Embeddings and vector search
-* AI application development
+[![Live](https://img.shields.io/badge/👑%20LIVE%20APPLICATION-VISIT%20PROJECT-16A34A?style=for-the-badge&labelColor=555555)](https://YOUR-LIVE-LINK-HERE) <!-- 🔁 REPLACE with the live app URL -->
+[![Code](https://img.shields.io/badge/GITHUB-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/dhanush0823-git/ai-public-health-chatbot)
 
-</td>
-<td width="50%" valign="top">
+**🧰 Tech Stack**
 
-### 🧠 Machine Learning & NLP
+`Python` `Streamlit` `NLP` `RAG` `FAISS`
 
-* Supervised learning
-* Classification and regression
-* Natural Language Processing
-* Text classification and sentiment analysis
-* Feature engineering and evaluation
+**✨ Highlights**
+
+- Multilingual chatbot for disease awareness and preventive healthcare
+- Answers symptom, vaccination-schedule and outbreak queries
+- Retrieval-backed responses grounded in health documents
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 📊 Data Science & Analytics
+#### 🏦 RBI LLM-RAG Gatekeeper
+**Regulatory Query Validation with RAG**
 
-* Exploratory data analysis
-* Statistical insights
-* Data visualization
-* SQL-based analysis
-* Power BI dashboards
+[![Code](https://img.shields.io/badge/GITHUB-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/dhanush0823-git/rbi-llm-rag-gatekeeper)
 
-</td>
-<td width="50%" valign="top">
+**🧰 Tech Stack**
 
-### ⚙️ Engineering & Deployment
+`Python` `LLM` `RAG` `Vector Search`
 
-* Python application development
-* Streamlit applications
-* Data preprocessing pipelines
-* Git and GitHub
-* API-based application integration
+**✨ Highlights**
+
+- Validates financial queries against RBI regulatory data
+- Retrieval-Augmented Generation with a vector index
+- Includes application logic, data and indexing pipeline
 
 </td>
-</tr>
-</table>
+<td width="33%" valign="top">
 
-**Target opportunities:** AI/ML Engineer · Generative AI Engineer · NLP Engineer · Data Scientist · Data Analyst
-
----
-
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-
-## `03` — Technical Arsenal
-
-### 🐍 Programming & Query Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-### 📊 Data Science & Visualization
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
-### 🧠 Machine Learning & Deep Learning
-
-<p>
-<img src="https://img.shields.io/badge/Supervised%20Learning-2563EB?style=flat-square" alt="Supervised Learning"/>
-<img src="https://img.shields.io/badge/Classification-0F766E?style=flat-square" alt="Classification"/>
-<img src="https://img.shields.io/badge/Regression-7C3AED?style=flat-square" alt="Regression"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-475569?style=flat-square" alt="Feature Engineering"/>
-<img src="https://img.shields.io/badge/Model%20Evaluation-B45309?style=flat-square" alt="Model Evaluation"/>
-</p>
-
-### 💬 NLP & Text Intelligence
-
-<p>
-<img src="https://img.shields.io/badge/NLTK-166534?style=flat-square" alt="NLTK"/>
-<img src="https://img.shields.io/badge/Regex-475569?style=flat-square" alt="Regular Expressions"/>
-<img src="https://img.shields.io/badge/Text%20Preprocessing-0F766E?style=flat-square" alt="Text Preprocessing"/>
-<img src="https://img.shields.io/badge/Tokenization-7C3AED?style=flat-square" alt="Tokenization"/>
-<img src="https://img.shields.io/badge/Sentence%20Transformers-2563EB?style=flat-square" alt="Sentence Transformers"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</p>
-
-### ✨ Generative AI & Retrieval
-
-<p>
-<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" alt="Large Language Models"/>
-<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square" alt="Retrieval-Augmented Generation"/>
-<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square" alt="FAISS"/>
-<img src="https://img.shields.io/badge/Embeddings-7C3AED?style=flat-square" alt="Embeddings"/>
-<img src="https://img.shields.io/badge/Vector%20Search-0F766E?style=flat-square" alt="Vector Search"/>
-<img src="https://img.shields.io/badge/Ollama-171717?style=flat-square" alt="Ollama"/>
-</p>
-
-### 📈 Business Intelligence & Data Management
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/DAX-217346?style=flat-square" alt="DAX"/>
-<img src="https://img.shields.io/badge/Power%20Query-6B2D91?style=flat-square" alt="Power Query"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### 🛠️ Development & Deployment
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
-</p>
-
----
-
-<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
-
-## `04` — Featured Projects
-
-*Applications and projects across AI, Generative AI, NLP, Machine Learning, and Data Science.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 AgriPredict
-
-**Weather-Aware Market Trend Analysis for Crops**
-
-<a href="https://weatheragripredict.streamlit.app/">
-<img src="https://img.shields.io/badge/Live%20Application-Visit%20Project-16A34A?style=for-the-badge&logo=streamlit&logoColor=white" alt="AgriPredict live application"/>
-</a>
-
-An agriculture-focused application exploring the relationship between weather conditions and crop market trends.
-
-**Focus areas**
-
-* Agricultural data analysis
-* Weather-aware insights
-* Crop market trends
-* Data-driven decision support
-
-`Python` `Data Science` `Machine Learning` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 AI Health Chatbot
-
-**Conversational AI for Health Information**
-
-<a href="https://disawachatbot.streamlit.app/">
-<img src="https://img.shields.io/badge/Live%20Application-Visit%20Project-16A34A?style=for-the-badge&logo=streamlit&logoColor=white" alt="AI Health Chatbot live application"/>
-</a>
-
-An AI chatbot application designed to provide a conversational interface for health-related information.
-
-**Focus areas**
-
-* Natural-language interaction
-* AI-powered question answering
-* Conversational application design
-* User-friendly AI interfaces
-
-`Python` `AI` `NLP` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 Resume–Job Matching System
-
+#### 🔎 Resume–Job Matching System
 **Semantic Matching & Skill Gap Analysis**
 
-A project concept for comparing candidate resumes against job descriptions using natural-language processing and semantic similarity.
+![Status](https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=for-the-badge&labelColor=555555)
 
-**Planned capabilities**
-
-* Extract and normalize text
-* Identify relevant skills and keywords
-* Compare semantic representations
-* Rank job descriptions by relevance
+**🧰 Tech Stack**
 
 `Python` `NLP` `Embeddings` `FAISS`
 
-**Status:** Project idea unless linked to a completed implementation.
+**✨ Highlights**
 
-</td>
-<td width="50%" valign="top">
-
-### 💬 NLP Sentiment Analysis
-
-**Understanding Opinions Through Text**
-
-A project concept for classifying text into sentiment categories and examining patterns in user feedback.
-
-**Planned capabilities**
-
-* Text cleaning and normalization
-* Tokenization and feature extraction
-* Sentiment classification
-* Evaluation using precision, recall, and F1-score
-
-`Python` `NLTK` `Scikit-learn` `NLP`
-
-**Status:** Project idea unless linked to a completed implementation.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Document Q&A with RAG
-
-**Context-Aware Retrieval-Augmented Generation**
-
-A project concept for answering questions about documents by retrieving relevant passages before generating a response.
-
-**Planned capabilities**
-
-* Document ingestion and chunking
-* Embedding generation
-* FAISS similarity search
-* Context-grounded answer generation
-
-`Python` `LLMs` `RAG` `FAISS`
-
-**Status:** Project idea unless linked to a completed implementation.
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Sales Analytics Dashboard
-
-**Business Intelligence & Performance Tracking**
-
-A project concept for analyzing transactional data and communicating business performance through interactive dashboards.
-
-**Planned capabilities**
-
-* Data cleaning and transformation
-* SQL-based analysis
-* Revenue and customer KPIs
-* Interactive dashboard reporting
-
-`SQL` `Python` `Power BI` `DAX`
-
-**Status:** Project idea unless linked to a completed implementation.
+- Compares resumes with job descriptions via embeddings
+- Semantic similarity search beyond keyword matching
+- Surfaces skill gaps and improves job-fit scoring
 
 </td>
 </tr>
 </table>
 
-### 🔗 Explore My Repositories
-
-<a href="https://github.com/dhanush0823-git?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-</a>
-
-> **Portfolio principle:** Every featured project should have a working repository, a clear README, installation instructions, example inputs, evaluation results where applicable, and a live demo when practical.
-
 ---
 
-<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
-
-## `05` — Professional Experience
-
-<details>
-<summary><strong>📊 Data Science Intern — PySpiders, Bengaluru</strong> · March 2026 – July 2026</summary>
-
-**Technologies:** Python · SQL · Pandas · NumPy
-
-* Worked with Python-based data handling, SQL integration, and structured datasets.
-* Performed exploratory data analysis to investigate patterns and support data-driven insights.
-* Developed reusable scripts for data preparation and recurring analytical tasks.
-
-</details>
-
-<details>
-<summary><strong>📈 Data Scientist Intern (Data Analytics) — VCodez, Chennai</strong> · July 2025 – November 2025</summary>
-
-**Technologies:** SQL · Power BI · Python · Pandas · NumPy · Excel · MySQL
-
-* Analyzed 30,000+ business records to examine customer behavior, revenue trends, and operational performance.
-* Performed data cleaning, validation, and reconciliation to improve reporting consistency.
-* Developed interactive Power BI dashboards; the original experience notes report a 40% reduction in manual reporting effort.
-
-</details>
-
-<details>
-<summary><strong>💻 Software Developer Intern — Gateway Software Solutions, Coimbatore</strong> · March 2025 – June 2025</summary>
-
-**Technologies:** Python · Git · GitHub
-
-* Developed and maintained Python modules and helped resolve application bugs.
-* Participated in code reviews and testing activities.
-* Collaborated on maintaining readable and reusable application code.
-
-</details>
-
----
-
-<!-- ═══════════════════════ EDUCATION ═══════════════════════ -->
-
-## `06` — Education
+### 🧪 Machine Learning
 
 <table>
 <tr>
-<td>
+<td width="33%" valign="top">
 
-🎓 **Bachelor of Engineering — Computer Science and Engineering**
+#### 🌾 AgriPredict
+**Weather-Aware Market Trend Analysis for Crops**
 
-**Hindusthan College of Engineering and Technology**
-Coimbatore, Tamil Nadu, India
+[![Live](https://img.shields.io/badge/👑%20LIVE%20APPLICATION-VISIT%20PROJECT-16A34A?style=for-the-badge&labelColor=555555)](https://YOUR-LIVE-LINK-HERE) <!-- 🔁 REPLACE with the live app URL -->
+[![Code](https://img.shields.io/badge/GITHUB-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/dhanush0823-git/Weather-Aware-Market-Trend-Analysis-for-Crops)
 
-**Graduation:** 2026
-**CGPA:** 8.53/10 — confirm against your official academic records before publishing.
+**🧰 Tech Stack**
+
+`Python` `Machine Learning` `Scikit-learn` `Streamlit`
+
+**✨ Highlights**
+
+- Combines historical crop prices with seasonal weather patterns
+- Predictive modeling to forecast price changes and market risk
+- Data-driven decision support for agriculture
+
+</td>
+<td width="33%" valign="top">
+
+#### 💬 NLP Sentiment Analysis
+**Understanding Opinions Through Text**
+
+![Status](https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=for-the-badge&labelColor=555555)
+
+**🧰 Tech Stack**
+
+`Python` `NLP` `Text Classification` `Scikit-learn`
+
+**✨ Highlights**
+
+- Classifies text opinions into sentiment categories
+- Text cleaning and feature extraction pipeline
+- Evaluated with standard classification metrics
+
+</td>
+<td width="33%" valign="top">
+
+#### 🌳 ML Algorithms Lab
+**Decision Tree & XGBoost Experiments**
+
+[![Code](https://img.shields.io/badge/GITHUB-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/dhanush0823-git/ML_Algorithms)
+
+**🧰 Tech Stack**
+
+`Python` `XGBoost` `Decision Tree` `Jupyter`
+
+**✨ Highlights**
+
+- Tree-based ensemble algorithms implemented and compared
+- Covers model training, prediction and evaluation
+- Practical experiments on real datasets
 
 </td>
 </tr>
@@ -407,131 +202,235 @@ Coimbatore, Tamil Nadu, India
 
 ---
 
-<!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
+### 📊 Data Analytics
 
-## `07` — Certifications & Learning
+<table>
+<tr>
+<td width="33%" valign="top">
 
-| Certification                         | Provider                                                      |
-| ------------------------------------- | ------------------------------------------------------------- |
-| Data Science with Python              | PySpiders / Infosys Springboard — verify issuing organization |
-| Artificial Intelligence Fundamentals  | IBM SkillsBuild                                               |
-| Power BI Real-Time Dashboard Workshop | Office Master                                                 |
-| AI Tools and ChatGPT Workshop         | Be10x                                                         |
-| Python for Data Science               | GUVI                                                          |
+#### 🛒 E-Commerce Sales Analytics
+**Revenue & Customer Behavior Dashboard**
 
-*Verify certificate names and issuing organizations against the certificates before publishing.*
+![Status](https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=for-the-badge&labelColor=555555)
+
+**🧰 Tech Stack**
+
+`SQL` `Python` `Pandas` `Power BI`
+
+**✨ Highlights**
+
+- Analyzed **50,000+ sales transactions** for buying patterns
+- Interactive dashboards with segmentation and forecasting
+- **Cut reporting time by 30%**
+
+</td>
+<td width="33%" valign="top">
+
+#### 🎓 Student Performance Analytics
+**Early Warning Dashboard for At-Risk Students**
+
+![Status](https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=for-the-badge&labelColor=555555)
+
+**🧰 Tech Stack**
+
+`Python` `SQL` `Power BI` `Scikit-learn`
+
+**✨ Highlights**
+
+- Data cleaning and EDA to uncover academic trends
+- Dashboards tracking attendance, marks and pass %
+- Flags at-risk students early for intervention
+
+</td>
+<td width="33%" valign="top">
+
+#### 🕸️ Web Scraping with Selenium
+**Automated Data Collection Pipeline**
+
+[![Code](https://img.shields.io/badge/GITHUB-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/dhanush0823-git/Web-Scraping-Python-Selenium)
+
+**🧰 Tech Stack**
+
+`Python` `Selenium` `Pandas` `Jupyter`
+
+**✨ Highlights**
+
+- Automates browser interaction to extract web data
+- Scrapes e-commerce platforms such as Flipkart
+- Converts raw pages into structured, analysis-ready data
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
+## 🧠 How I Build GenAI Systems
 
-## `08` — Achievements
-
-* 🧩 Solved **200+ coding problems**, as reported in my existing profile.
-* 🚀 Participated in **Smart India Hackathon (SIH)**.
-* 🏏 Won the **University Zonal Cricket Championship (2025)**.
+```mermaid
+flowchart LR
+    A[📄 Documents] --> B[✂️ Chunking]
+    B --> C[🔢 Embeddings]
+    C --> D[(🗂️ Vector Index)]
+    E[❓ User Query] --> F[🔢 Query Embedding]
+    F --> D
+    D --> G[🎯 Top-K Context]
+    G --> H[🤖 LLM Response]
+    H --> I[✅ Context-aware Answer]
+```
 
 ---
 
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
+## 💼 Experience
 
-## `09` — GitHub Analytics
+<details open>
+<summary><b>📊 Data Science Intern · PySpiders, Bengaluru</b> &nbsp;<sub>(Mar 2026 – Jul 2026)</sub></summary>
+<br>
+
+`Python` `SQL` `Pandas` `NumPy`
+
+- Built **Python data pipelines** with SQL integration and file handling to collect, clean and structure raw datasets
+- Performed **EDA** with Pandas and NumPy to surface trends and support data-driven decisions
+- Designed **reusable, modular scripts** to automate recurring preprocessing tasks
+</details>
+
+<details open>
+<summary><b>📈 Data Scientist Intern (Analytics) · VCodez, Chennai</b> &nbsp;<sub>(Jul 2025 – Nov 2025)</sub></summary>
+<br>
+
+`SQL` `Power BI` `Python` `Pandas` `NumPy` `Excel` `MySQL`
+
+- Analyzed **30,000+ business records** with SQL and Python to uncover customer behavior and revenue trends
+- Ran end-to-end **data quality checks** in Excel and Python to reconcile discrepancies
+- Built interactive **Power BI dashboards** (KPIs, slicers, drill-through) with ETL, **reducing manual reporting effort by 40%**
+</details>
+
+<details open>
+<summary><b>🧩 Software Developer Intern · Gateway Software Solutions, Coimbatore</b> &nbsp;<sub>(Mar 2025 – Jun 2025)</sub></summary>
+<br>
+
+`Python` `Git` `GitHub`
+
+- Developed and maintained **Python modules**, fixed bugs and improved code quality
+- Took part in **code reviews and testing cycles** for more reliable releases
+</details>
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhanush0823-git&show_icons=true&hide_border=true&bg_color=09090B&title_color=22D3EE&icon_color=22D3EE&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=dhanush0823-git&theme=transparent&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub contribution streak"/>
+**Languages & Core**
 
-<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush0823-git&layout=compact&hide_border=true&bg_color=09090B&title_color=22D3EE&text_color=E5E7EB&langs_count=8" alt="Most-used programming languages"/>
+**Data Science & Machine Learning**
 
-<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhanush0823-git&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies"/>
+**NLP & Generative AI**
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-8A2BE2?style=for-the-badge"/>
+
+**BI, Big Data & Databases**
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Query-6B2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ LEARNING ═══════════════════════ -->
-
-## `10` — Currently Exploring
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🧠 Advanced NLP**
-
-* Text representation and embeddings
-* Semantic similarity
-* Text classification
-* Transformer-based NLP
-
-</td>
-<td width="50%" valign="top">
-
-**✨ Generative AI**
-
-* RAG pipeline design
-* Vector databases and retrieval
-* LLM evaluation
-* Grounded question answering
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📈 Applied Machine Learning**
-
-* Model selection and validation
-* Feature engineering
-* Hyperparameter tuning
-* Reliable evaluation pipelines
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ AI Engineering**
-
-* FastAPI
-* Model and application deployment
-* Reproducible experiments
-* End-to-end AI workflows
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
+## 🔭 Currently Exploring
 
 <div align="center">
 
-## Let's Build Something Intelligent.
+| 🧠 Deep Learning & LLMs | 🔍 RAG & Vector Search | 🚀 Deployment |
+|:---:|:---:|:---:|
+| NLP, Computer Vision, Transformers, Fine-tuning | Hybrid search, re-ranking, evaluation | FastAPI, Docker, Cloud, MLOps basics |
 
-I'm interested in opportunities and collaborations involving **Artificial Intelligence, Generative AI, NLP, Machine Learning, and Data Science**.
+</div>
 
-If you're building practical AI applications or working on data-driven products, let's connect.
+---
+
+## 🎓 Education & Certifications
+
+| 🎓 Degree | 🏫 Institution | 📅 Year | 📈 CGPA |
+|---|---|:---:|:---:|
+| B.E. Computer Science & Engineering | Hindusthan College of Engineering and Technology, Coimbatore | 2026 | **8.50** |
+
+| 📜 Certification | 🏢 Issuer | 📅 Date |
+|---|---|:---:|
+| Data Science with Python | Infosys Springboard / PySpiders, BTM Bengaluru | Jan 2026 |
+| Artificial Intelligence Fundamentals | IBM SkillBuild | Oct 2025 |
+| Power BI Real-Time Dashboard Workshop | Office Master | Dec 2025 |
+| Python for Data Science | GUVI | Mar 2025 |
+| AI Tools and ChatGPT Workshop | Be10x | Feb 2025 |
+
+---
+
+## 🏆 Achievements
+
+- 🧩 Solved **200+ coding problems** across coding platforms
+- 🚀 Participated in **Smart India Hackathon (SIH)**
+- 🏏 Won the **University Zonal Cricket Championship (2025)**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dhanush0823-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush0823-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=dhanush0823-git&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect
+
+**Hiring for Data Science, ML, NLP or GenAI roles? Let's talk.**
+
+<a href="https://github.com/dhanush0823-git"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555"/></a>
+<a href="https://linkedin.com/in/dhanush-s-784190358"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555"/></a>
+<a href="mailto:dhanushhemapriya0823@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555"/></a>
 
 <br/>
 
-<a href="https://linkedin.com/in/dhanush-s-784190358">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-<a href="mailto:dhanushhemapriya0823@gmail.com">
-<img src="https://img.shields.io/badge/Send%20an%20Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
-</a>
+*Thanks for visiting. Let's turn data into decisions.* ⭐
 
-<br/><br/>
-
-**Thanks for visiting my profile.**
-
-*Building skills. Shipping projects. Learning continuously.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:164E63,100:09090B"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7C8F,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
 </div>
